@@ -34,13 +34,14 @@ Make sure you have Node.js installed on your machine.
    ```bash
    npm install
    ```
+3. Create a .env and place the VITE_API_KEY and VITE_BASE_URL
 
-3. Run the development server:
+4. Run the development server:
    ```bash
    npm run dev
    ```
 
-4. Open your browser and navigate to `http://localhost:5173`
+5. Open your browser and navigate to `http://localhost:5173`
 
 ## Available Scripts
 
